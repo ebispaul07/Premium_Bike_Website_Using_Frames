@@ -1,0 +1,12 @@
+body{
+    color: #1bdb2b;
+    height: 100px;
+background-image:"cnt.jpg" ;
+background-size:108%;
+}
+h1{
+color: antiquewhite;
+}
+h3 { color: hwb(0 100% 0%);
+
+}

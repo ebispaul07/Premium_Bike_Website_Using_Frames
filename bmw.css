@@ -1,0 +1,27 @@
+body{
+    height: 100px;
+background-image:"bmw.jpg" ;
+background-size:100%;
+}
+h2{
+color: rgb(234, 237, 239);
+font-size: xx-large;
+}
+h3 { color: #ffffff;
+
+}
+a{text-decoration: none;}
+button{
+   background-color: rgb(195, 214, 216);
+   border: none;
+   height: 36px;
+   width: 74px;
+   border-radius: 18px;
+   cursor: pointer;
+}
+center{
+    color: #f5f7f9;
+}
+h4{
+    color: #313330;
+}
